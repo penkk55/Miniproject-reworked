@@ -1,2 +1,2 @@
-# Miniproject-reworked
-6/4/2020
+# WiFi-Voice-Controlled-Robot
+WiFi Voice Controlled Robot using Android and NodeMCU!
